@@ -1,3 +1,0 @@
-# Harvard University
-
-## Happiness Course
