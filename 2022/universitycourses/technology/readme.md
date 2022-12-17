@@ -234,3 +234,18 @@ Goal: translate the customer's desire for a set of defined capabilities into a w
 ## Principles that Guide Practice
 
 [pdf](./resource/ModelingPrinciples.pdf)
+
+# Chapter 8
+
+## Understanding Requirements
+
+[pdf](./resource/UnderstandingRequiremen.pdf)
+
+
+# 总结
+
+浙江大学软件工程课程在工作多年之后回头再来看，确实很多实际的方法论在大学课程中就能很明显的体现出来，只是作为学生在课堂上听讲，没有实际的工作磨砺，并不能体会其中内容的精辟和实用。
+
+作为一门非常经典的课程，暂时只写了8章的内容，等后面再慢慢补充，其中软件测试，项目管理都是属于软件工程里面涵盖的内容，也有很多经典的策略和方法论，后续再更新。
+
+这门课程也是可以反复不断地琢磨和学习的，毕竟太阳底下无新鲜事也适用于当前的软件行业。
